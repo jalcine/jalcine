@@ -2,6 +2,8 @@
 
 <img src="https://jacky.wtf/assets/favicon.2fb16a8e.svg" style="float: right" />
 
+> Looking for a software engineer for your team? [Let's talk][6]!
+
 I'm a [free/libre open source][1] advocate that has a strong interest in researching how to make non-feudal computing
 systems for the general public. I post at least once a week to my [personal website][2], occassionally [livestream][3]
 from my home lab and am usually talking about the intersections of technology, humanity and politics on my social
@@ -18,3 +20,4 @@ As a F/LOSS advocate, you'll find my recent projects on [sourcehut][5]; a libre 
 [3]: https://live.jacky.wtf/
 [4]: https://www.theatlantic.com/technology/archive/2020/01/ice-contract-github-sparks-developer-protests/604339/
 [5]: https://git.sr.ht/~jacky
+[6]: https://jacky.wtf/work/
