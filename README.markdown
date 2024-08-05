@@ -1,6 +1,6 @@
-<img src="https://jacky.wtf/assets/favicon.2fb16a8e.svg" style="float: right;" />
-
 # Hello, I'm [Jacky Alciné](https://jacky.wtf).
+<img align="right" src="https://jacky.wtf/assets/favicon.2fb16a8e.svg" style="float: right; display: inline-block;" />
+
 > Looking for a software engineer for your team? [Let's talk][6]!
 
 I'm a [free/libre open source][1] advocate that has a strong interest in researching how to make non-feudal computing
