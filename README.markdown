@@ -1,8 +1,6 @@
 # Hello, I'm [jalciné](https://jacky.wtf).
 <img align="right" src="https://jacky.wtf/assets/favicon.2fb16a8e.svg" style="float: right; display: inline-block;" />
 
-> Looking for a software engineer for your team? [Let's talk][6]!
-
 I'm a [free/libre open source][1] advocate that has a strong interest in researching how to make non-feudal computing
 systems for the general public. I post at least once a week to my [personal website][2], occassionally [livestream][3]
 from my home lab and am usually talking about the intersections of technology, humanity and politics on my social
