@@ -1,4 +1,4 @@
-# Hello, I'm [Jacky Alciné](https://jacky.wtf).
+# Hello, I'm [jalciné](https://jacky.wtf).
 <img align="right" src="https://jacky.wtf/assets/favicon.2fb16a8e.svg" style="float: right; display: inline-block;" />
 
 > Looking for a software engineer for your team? [Let's talk][6]!
